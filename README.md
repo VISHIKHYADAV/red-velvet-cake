@@ -20,7 +20,6 @@ Cream Cheese Frosting
 5 and 1/2 cups (660g) confectioners’ sugar
 1 and 1/2 teaspoons pure vanilla extract
 pinch of salt, to taste
-Instructions
 
 Preheat oven to 350°F (177°C). Grease two 9-inch cake pans, line with parchment paper, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans.
 Make the cake: Whisk the flour, baking soda, cocoa powder, and salt together in a large bowl. Set aside.
@@ -42,3 +41,4 @@ Sheet Cake: This batter fits nicely into a 9×13 inch cake pan or 12×17 inch sh
 3 Layer Cake: Divide the batter between 3 9-inch cake pans. Bake for about 22-25 minutes.
 Bundt Cake: This cake batter fits into a 10-cup or larger bundt pan. I’m unsure of the exact bake time (likely around an hour), but use a toothpick to test for doneness. Same oven temperature.
 Cupcakes: You can use this cake batter for 2-3 dozen cupcakes. Fill cupcake liners 1/2 – 2/3 of the way full. Bake for 20-21 minutes or until the tops of the cupcakes spring back when gently touched and a toothpick inserted in the center comes out clean. Use my red velvet cupcakes recipe if you need fewer.
+
